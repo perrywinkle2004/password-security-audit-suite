@@ -48,7 +48,7 @@ cd password_suite
 streamlit run app.py
 ```
 
-The app will open at **http://localhost:8501**
+The app will open at **[PASSSUITE](https://password-security-audit-suite-dxrksrwvca2ryjptednqmr.streamlit.app/)**
 
 ---
 
